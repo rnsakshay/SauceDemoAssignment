@@ -127,7 +127,6 @@ password=secret_sauce
 | Login Success                             | ✅      |
 | Login Failure (locked_out_user)           | ✅      |
 | Add Product to Cart & validate cart count | ✅      |
-| Failure Test with Screenshot Capture      | ✅      |
 
 ## Author
 
