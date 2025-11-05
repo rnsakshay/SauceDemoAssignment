@@ -35,22 +35,4 @@ public class LoginTests extends BaseTest {
         Assert.assertTrue(error.contains("locked"), "Expected locked account message!");
         report("🚫 Login Failure Verified");
     }
-    @Test
-    public void loginInvalidCredentialsScreenshotTest() {
-        report("🔹 Executing: loginInvalidCredentialsScreenshotTest");
-
-        LoginPage loginPage = new LoginPage(driver);
-
-        // Provide wrong credentials intentionally
-        report("Entering invalid username & password");
-        loginPage.login("incorrect_user", "incorrect_password");
-
-        report("Checking error message");
-        String error = loginPage.getErrorText(); // This should fail because incorrect_user is not locked_out_user
-
-        // This assertion is intentionally incorrect to force a FAIL → to capture screenshot
-        Assert.assertTrue(error.contains("Some Text That Will Never Match"),
-                "❌ Forced failure to trigger screenshot capture");
-    }
-
 }

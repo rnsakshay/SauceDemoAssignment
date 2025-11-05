@@ -162,3 +162,153 @@
 2025-11-05 20:31:33 INFO  LoginTests - ❌ Test Failed: ❌ Forced failure to trigger screenshot capture expected [true] but found [false]
 2025-11-05 20:31:35 INFO  LoginTests - 🛑 Browser Closed
 2025-11-05 20:31:35 INFO  LoginTests - 📁 Flushing Extent Report...
+2025-11-05 22:06:44 INFO  LoginTests - 📄 Extent Report Initialized
+2025-11-05 22:06:44 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 22:06:53 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:06:53 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 22:06:54 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 22:06:54 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 22:06:54 INFO  LoginTests - ✅ Test Passed
+2025-11-05 22:06:54 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 22:06:54 INFO  LoginTests - 📁 Flushing Extent Report...
+2025-11-05 22:07:43 INFO  LoginTests - 📄 Extent Report Initialized
+2025-11-05 22:07:43 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 22:07:48 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:07:48 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 22:07:48 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 22:07:48 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 22:07:48 INFO  LoginTests - ✅ Test Passed
+2025-11-05 22:07:49 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 22:07:49 INFO  LoginTests - 📁 Flushing Extent Report...
+2025-11-05 22:08:47 INFO  LoginTests - 📄 Extent Report Initialized
+2025-11-05 22:08:48 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 22:08:54 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:08:54 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 22:08:55 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 22:08:55 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 22:08:55 INFO  LoginTests - ✅ Test Passed
+2025-11-05 22:08:55 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 22:08:55 INFO  LoginTests - 📁 Flushing Extent Report...
+2025-11-05 22:09:08 INFO  LoginTests - 📄 Extent Report Initialized
+2025-11-05 22:09:08 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 22:09:13 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:09:13 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 22:09:14 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 22:09:14 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 22:09:14 INFO  LoginTests - ✅ Test Passed
+2025-11-05 22:09:14 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 22:09:14 INFO  LoginTests - 📁 Flushing Extent Report...
+2025-11-05 22:10:07 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:10:08 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:11:08 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:11:08 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:11:08 INFO  CartTests - ✅ Login success
+2025-11-05 22:11:08 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:11:08 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 22:11:08 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 22:11:08 INFO  CartTests - ✅ Test Passed
+2025-11-05 22:11:09 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:11:09 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 22:11:15 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:11:15 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:11:52 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:11:52 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:12:11 INFO  CartTests - ✅ Login success
+2025-11-05 22:12:11 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:12:11 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 22:12:11 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 22:12:11 INFO  CartTests - ✅ Test Passed
+2025-11-05 22:12:11 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:12:11 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 22:12:25 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:12:26 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:13:22 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:13:22 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:13:22 INFO  CartTests - ✅ Login success
+2025-11-05 22:13:22 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:13:22 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 22:13:22 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 22:13:22 INFO  CartTests - ✅ Test Passed
+2025-11-05 22:13:22 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:13:22 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 22:13:45 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:13:45 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:14:58 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:14:58 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:14:59 INFO  CartTests - ✅ Login success
+2025-11-05 22:14:59 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:14:59 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 22:14:59 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 22:14:59 INFO  CartTests - ✅ Test Passed
+2025-11-05 22:14:59 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:14:59 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 22:18:22 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:18:22 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:18:29 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:18:29 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:18:29 INFO  CartTests - ✅ Login success
+2025-11-05 22:18:32 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:18:34 INFO  CartTests - ❌ Test Failed: no such element: Unable to locate element: {"method":"css selector","selector":".shopping_cart_badge"}
+  (Session info: chrome=141.0.7390.123)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d5732d07c75f2860b4b92e780895c43, findElement {using=css selector, value=.shopping_cart_badge}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\ADMI\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52694}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52694/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d5732d07c75f2860b4b92e780895c43
+2025-11-05 22:18:34 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:18:34 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 22:18:41 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:18:41 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:18:45 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:18:45 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:18:46 INFO  CartTests - ✅ Login success
+2025-11-05 22:18:48 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:18:50 INFO  CartTests - ❌ Test Failed: no such element: Unable to locate element: {"method":"css selector","selector":".shopping_cart_badge"}
+  (Session info: chrome=141.0.7390.123)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [de6ffbbce7de0dd021a73422f805dfd9, findElement {value=.shopping_cart_badge, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 141.0.7390.123, chrome: {chromedriverVersion: 141.0.7390.122 (b477534e7e1..., userDataDir: C:\Users\ADMI\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52732}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52732/devtoo..., se:cdpVersion: 141.0.7390.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: de6ffbbce7de0dd021a73422f805dfd9
+2025-11-05 22:18:51 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:18:51 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 22:19:32 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:19:32 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:19:37 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:19:37 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:19:38 INFO  CartTests - ✅ Login success
+2025-11-05 22:19:40 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:19:42 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 22:19:44 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 22:19:44 INFO  CartTests - ✅ Test Passed
+2025-11-05 22:19:45 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:19:45 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 22:26:23 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 22:26:23 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 22:26:57 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:26:57 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 22:26:58 INFO  CartTests - ✅ Login success
+2025-11-05 22:26:59 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 22:26:59 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 22:26:59 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 22:26:59 INFO  CartTests - ✅ Test Passed
+2025-11-05 22:27:00 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 22:27:00 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 22:27:03 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:27:03 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 22:27:04 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 22:27:04 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 22:27:04 INFO  LoginTests - ✅ Test Passed
+2025-11-05 22:27:04 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 22:27:04 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 22:27:07 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 22:27:07 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 22:27:07 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 22:27:07 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 22:27:07 INFO  LoginTests - ✅ Test Passed
+2025-11-05 22:27:08 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 22:27:08 INFO  CartTests - 📁 Flushing Extent Report...
