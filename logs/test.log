@@ -1,0 +1,164 @@
+2025-11-05 20:09:50 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 20:09:50 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 20:10:07 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:10:07 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 20:10:09 INFO  CartTests - ✅ Login success
+2025-11-05 20:10:09 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 20:10:09 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 20:10:09 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 20:10:09 INFO  CartTests - ✅ Test Passed
+2025-11-05 20:10:12 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 20:10:12 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 20:10:32 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:10:32 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 20:10:32 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 20:10:32 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 20:10:32 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:10:33 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:10:33 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 20:10:36 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:10:36 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 20:10:37 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 20:10:37 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 20:10:37 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:10:37 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:10:37 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 20:12:48 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 20:12:48 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 20:12:54 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:12:54 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 20:12:56 INFO  CartTests - ✅ Login success
+2025-11-05 20:12:56 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 20:12:56 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 20:12:56 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 20:12:56 INFO  CartTests - ✅ Test Passed
+2025-11-05 20:12:56 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 20:12:56 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 20:12:59 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:12:59 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 20:13:00 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 20:13:00 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 20:13:00 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:13:00 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:13:00 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 20:13:02 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:13:02 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 20:13:03 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 20:13:03 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 20:13:03 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:13:03 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:13:03 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 20:17:49 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 20:17:50 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 20:17:58 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:17:58 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 20:17:58 INFO  CartTests - ✅ Login success
+2025-11-05 20:17:59 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 20:17:59 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 20:17:59 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 20:17:59 INFO  CartTests - ✅ Test Passed
+2025-11-05 20:17:59 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 20:17:59 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 20:18:46 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:18:46 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 20:18:47 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 20:18:47 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 20:18:47 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:18:47 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:18:47 INFO  LoginTests - ===== Starting Test: loginInvalidCredentialsScreenshotTest =====
+2025-11-05 20:19:34 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:19:34 INFO  LoginTests - 🔹 Executing: loginInvalidCredentialsScreenshotTest
+2025-11-05 20:19:34 INFO  LoginTests - Entering invalid username & password
+2025-11-05 20:19:35 INFO  LoginTests - Checking error message
+2025-11-05 20:19:35 INFO  LoginTests - ❌ Test Failed: ❌ Forced failure to trigger screenshot capture expected [true] but found [false]
+2025-11-05 20:19:35 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:19:35 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 20:19:42 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:19:42 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 20:19:42 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 20:19:43 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 20:19:43 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:19:43 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:19:43 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 20:24:16 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 20:24:16 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 20:24:23 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:24:23 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 20:24:24 INFO  CartTests - ✅ Login success
+2025-11-05 20:24:24 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 20:24:24 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 20:24:24 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 20:24:24 INFO  CartTests - ✅ Test Passed
+2025-11-05 20:24:25 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 20:24:25 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 20:24:48 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:24:48 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 20:24:48 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 20:24:48 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 20:24:48 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:24:49 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:24:49 INFO  LoginTests - ===== Starting Test: loginInvalidCredentialsScreenshotTest =====
+2025-11-05 20:24:51 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:24:51 INFO  LoginTests - 🔹 Executing: loginInvalidCredentialsScreenshotTest
+2025-11-05 20:24:51 INFO  LoginTests - Entering invalid username & password
+2025-11-05 20:24:52 INFO  LoginTests - Checking error message
+2025-11-05 20:24:53 INFO  LoginTests - ❌ Test Failed: ❌ Forced failure to trigger screenshot capture expected [true] but found [false]
+2025-11-05 20:24:53 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:24:53 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 20:24:56 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:24:56 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 20:24:56 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 20:24:56 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 20:24:57 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:24:57 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:24:57 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 20:26:28 INFO  CartTests - 📄 Extent Report Initialized
+2025-11-05 20:26:28 INFO  CartTests - ===== Starting Test: addBackpackToCartTest =====
+2025-11-05 20:26:57 INFO  CartTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:26:57 INFO  CartTests - 🔹 Executing: addBackpackToCartTest
+2025-11-05 20:26:58 INFO  CartTests - ✅ Login success
+2025-11-05 20:26:58 INFO  CartTests - 🎒 Backpack added to cart
+2025-11-05 20:26:58 INFO  CartTests - 🛒 Cart Count = 1
+2025-11-05 20:26:58 INFO  CartTests - 🎯 Add to Cart Verified
+2025-11-05 20:26:58 INFO  CartTests - ✅ Test Passed
+2025-11-05 20:26:58 INFO  CartTests - 🛑 Browser Closed
+2025-11-05 20:26:58 INFO  LoginTests - ===== Starting Test: loginFailureTest =====
+2025-11-05 20:27:03 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:27:03 INFO  LoginTests - 🔹 Executing: loginFailureTest
+2025-11-05 20:27:03 INFO  LoginTests - Captured Error: Epic sadface: Sorry, this user has been locked out.
+2025-11-05 20:27:03 INFO  LoginTests - 🚫 Login Failure Verified
+2025-11-05 20:27:03 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:27:04 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:27:04 INFO  LoginTests - ===== Starting Test: loginInvalidCredentialsScreenshotTest =====
+2025-11-05 20:27:08 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:27:08 INFO  LoginTests - 🔹 Executing: loginInvalidCredentialsScreenshotTest
+2025-11-05 20:27:08 INFO  LoginTests - Entering invalid username & password
+2025-11-05 20:27:09 INFO  LoginTests - Checking error message
+2025-11-05 20:27:09 INFO  LoginTests - ❌ Test Failed: ❌ Forced failure to trigger screenshot capture expected [true] but found [false]
+2025-11-05 20:27:09 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:27:09 INFO  LoginTests - ===== Starting Test: loginSuccessTest =====
+2025-11-05 20:27:29 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:27:29 INFO  LoginTests - 🔹 Executing: loginSuccessTest
+2025-11-05 20:27:31 INFO  LoginTests - ✅ Login should redirect to Inventory page
+2025-11-05 20:27:31 INFO  LoginTests - 🎯 Login Success Verified
+2025-11-05 20:27:31 INFO  LoginTests - ✅ Test Passed
+2025-11-05 20:27:38 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:27:38 INFO  CartTests - 📁 Flushing Extent Report...
+2025-11-05 20:31:05 INFO  LoginTests - 📄 Extent Report Initialized
+2025-11-05 20:31:05 INFO  LoginTests - ===== Starting Test: loginInvalidCredentialsScreenshotTest =====
+2025-11-05 20:31:11 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:31:11 INFO  LoginTests - 🔹 Executing: loginInvalidCredentialsScreenshotTest
+2025-11-05 20:31:11 INFO  LoginTests - Entering invalid username & password
+2025-11-05 20:31:12 INFO  LoginTests - Checking error message
+2025-11-05 20:31:12 INFO  LoginTests - ❌ Test Failed: ❌ Forced failure to trigger screenshot capture expected [true] but found [false]
+2025-11-05 20:31:13 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:31:13 INFO  LoginTests - 📁 Flushing Extent Report...
+2025-11-05 20:31:22 INFO  LoginTests - 📄 Extent Report Initialized
+2025-11-05 20:31:22 INFO  LoginTests - ===== Starting Test: loginInvalidCredentialsScreenshotTest =====
+2025-11-05 20:31:29 INFO  LoginTests - 🌍 Navigated to URL: https://www.saucedemo.com/
+2025-11-05 20:31:29 INFO  LoginTests - 🔹 Executing: loginInvalidCredentialsScreenshotTest
+2025-11-05 20:31:29 INFO  LoginTests - Entering invalid username & password
+2025-11-05 20:31:33 INFO  LoginTests - Checking error message
+2025-11-05 20:31:33 INFO  LoginTests - ❌ Test Failed: ❌ Forced failure to trigger screenshot capture expected [true] but found [false]
+2025-11-05 20:31:35 INFO  LoginTests - 🛑 Browser Closed
+2025-11-05 20:31:35 INFO  LoginTests - 📁 Flushing Extent Report...
